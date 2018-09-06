@@ -1,0 +1,15 @@
+{
+	"firstName" : "Carly",
+	"lastName" : "Hasson",
+	"displayHandle" : "hasscm2",
+
+	"posts" : [
+		{"status" : "This is my social media profile!"},
+		{"status" : "I'm learning how to use GitHub!"},
+		{"status" : "I hope to have this lab done soon."}
+	],
+
+	"age" : "21",
+	"active" : true
+
+}
